@@ -25,8 +25,8 @@
 <li><a target="_blank" href=""></a></li>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/sohan-rana" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.facebook.com/apurb0001" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
-<a target="_blank" href="https://www.instagram.com/sohanranaapurbo" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+<a target="_blank" href="https://www.facebook.com/sohanrana.apurbo/" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
+<a target="_blank" href="https://www.instagram.com/sohanrana.apurbo/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sohanxrana&show_icons=true&locale=en" alt="sohanxrana" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohanxrana&" alt="sohanxrana" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohanxrana&show_icons=true&locale=en&layout=compact" alt="sohanxrana" /></p>
